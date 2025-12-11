@@ -40,6 +40,4 @@ Windows • Linux • Ubuntu Server • Git & GitHub • VS Code
 
 ## 📫 Contact
 📧 Email: limelawanda6@gmail.com
-💼 LinkedIn: www.linkedin.com/in/wanda-limela  
-
-⭐ **Thanks for visiting — always building, always learning.**
+💼 LinkedIn: www.linkedin.com/in/wanda-limela
