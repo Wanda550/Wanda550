@@ -10,15 +10,11 @@ I'm a BSc Computing student at UNISA focused on building **Blue Team defensive s
 - Network traffic analysis  
 - Building tools and scripts to automate security tasks  
 
----
-
 ## 🚀 What I'm Up To
 - Building a **Security Operations Labs** repository  
 - Completing hands-on Blue Team labs (log analysis, SIEM, phishing, EDR)  
 - Improving skills in PowerShell, Python, and Linux  
 - Setting up a home SOC environment (Wazuh + ELK)
-
----
 
 ## 🛠️ Tools & Technologies
 **Security & Analysis:**  
@@ -30,8 +26,6 @@ Python • PowerShell • Bash • JavaScript • C++
 **Platforms:**  
 Windows • Linux • Ubuntu Server • Git & GitHub • VS Code
 
----
-
 ## 🧪 Security Projects & Labs
 - 🖥 **Security Operations Labs** (log analysis, SIEM, IR, phishing, EDR)  
 - 🔎 Windows Event Log Analysis  
@@ -39,21 +33,13 @@ Windows • Linux • Ubuntu Server • Git & GitHub • VS Code
 - 🎣 Phishing Email Analysis  
 - 🛡 Endpoint Detection Lab (EDR basics)
 
-➡️ *See pinned repositories below.*
-
----
-
 ## 📚 Certifications & Learning
 - Google Cybersecurity  
 - TryHackMe SOC Level 1  
 - HTB Academy (Blue Team Modules)  
 
----
-
 ## 📫 Contact
 📧 Email: limelawanda6@gmail.com
 💼 LinkedIn: www.linkedin.com/in/wanda-limela  
-
----
 
 ⭐ **Thanks for visiting — always building, always learning.**
