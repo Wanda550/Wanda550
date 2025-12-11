@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Wanda Limela 
 
-<!--
-**Wanda550/Wanda550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I'm a BSc Computing student at UNISA focused on building **Blue Team defensive skills** while creating small development projects that strengthen my understanding of systems, networks, and code.
 
-Here are some ideas to get you started:
+💻 I enjoy:
+- SOC analysis & SIEM investigations  
+- Log analysis & detection engineering  
+- Endpoint security (EDR)  
+- Network traffic analysis  
+- Building tools and scripts to automate security tasks  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Up To
+- Building a **Security Operations Labs** repository  
+- Completing hands-on Blue Team labs (log analysis, SIEM, phishing, EDR)  
+- Improving skills in PowerShell, Python, and Linux  
+- Setting up a home SOC environment (Wazuh + ELK)
+
+---
+
+## 🛠️ Tools & Technologies
+**Security & Analysis:**  
+Wazuh • ELK Stack • Sysmon • Wireshark • Brim • Zeek • Sigma Rules • CyberChef
+
+**Languages:**  
+Python • PowerShell • Bash • JavaScript • C++
+
+**Platforms:**  
+Windows • Linux • Ubuntu Server • Git & GitHub • VS Code
+
+---
+
+## 🧪 Security Projects & Labs
+- 🖥 **Security Operations Labs** (log analysis, SIEM, IR, phishing, EDR)  
+- 🔎 Windows Event Log Analysis  
+- 📊 SOC Investigations using Wazuh/ELK  
+- 🎣 Phishing Email Analysis  
+- 🛡 Endpoint Detection Lab (EDR basics)
+
+➡️ *See pinned repositories below.*
+
+---
+
+## 📚 Certifications & Learning
+- Google Cybersecurity  
+- TryHackMe SOC Level 1  
+- HTB Academy (Blue Team Modules)  
+
+---
+
+## 📫 Contact
+📧 Email: limelawanda6@gmail.com
+💼 LinkedIn: www.linkedin.com/in/wanda-limela  
+
+---
+
+⭐ **Thanks for visiting — always building, always learning.**
