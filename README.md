@@ -27,7 +27,7 @@ Wazuh • ELK Stack • Sysmon • Wireshark • NMap • Oracle VirtualBox • 
 Python • PowerShell • Bash • JavaScript • C++ • LaTex • Assembly • SQL
 
 **Frameworks:**
-React • Qt 
+React • Qt • MongoDB
 
 **Platforms and Enviroments:**  
 Windows • Linux • Ubuntu Server • Git & GitHub • VS Code • Code::Blocks • Qt Creator • LeetCode • TryHackMe • Hack The Box • TCM Security
