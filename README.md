@@ -21,16 +21,19 @@ I'm a BSc Computing student at UNISA focused on building **Blue Team defensive s
 
 ## 🛠️ Tools & Technologies
 **Security & Analysis:**  
-Wazuh • ELK Stack • Sysmon • Wireshark • NMap • Oracle VirtualBox • DosBox-X • Brim • Zeek • Sigma Rules • CyberChef 
+Wazuh • ELK Stack (Elasticsearch, Logstash, Kibana) • Sysmon • Wireshark • NMap • Oracle VirtualBox • Splunk •  OSINT Tools (Shodan, VirusTotal, AbuseIPDB • Brim • Zeek • Sigma Rules • CyberChef • PowerBI • Jira • Postman • Linux \& Windows Log Analysis
 
 **Languages:**  
 Python • PowerShell • Bash • JavaScript • C++ • LaTex • Assembly • SQL
 
 **Frameworks:**
-React • Qt • MongoDB
+React • Qt • MongoDB • MITRE & ATTACK Framework
 
 **Platforms and Enviroments:**  
-Windows • Linux • Ubuntu Server • Git & GitHub • VS Code • Code::Blocks • Qt Creator • LeetCode • TryHackMe • Hack The Box • TCM Security
+Windows • Linux • Ubuntu Server • Git & GitHub • VS Code • Code::Blocks • Qt Creator • DosBox-X • LeetCode • TryHackMe • Hack The Box • TCM Security
+
+**Other Skills**
+Networking basics • Cloud Security • Automation Scripts • CI/CD Pipelines • Log Analysis • Incident Response Playbooks
 
 ## 🧪 Security Projects & Labs
 - 🖥 **Security Operations Labs** (log analysis, SIEM, IR, phishing, EDR)  
@@ -40,7 +43,8 @@ Windows • Linux • Ubuntu Server • Git & GitHub • VS Code • Code::Block
 - 🛡 Endpoint Detection Lab (EDR basics)
 
 ## 📚 Certifications & Learning
-- Google Cybersecurity  
+- Google Cybersecurity
+- Fortinet Network Security Essentials (NSE 1, 2 & 3)
 - TryHackMe SOC Level 1  
 - HTB Academy (Blue Team Modules)
 - Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR  
