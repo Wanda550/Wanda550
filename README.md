@@ -32,7 +32,7 @@ React • Qt • MongoDB • MITRE & ATTACK Framework
 **Platforms and Enviroments:**  
 Windows • Linux • Ubuntu Server • Git & GitHub • VS Code • Code::Blocks • Qt Creator • DosBox-X • LeetCode • TryHackMe • Hack The Box • TCM Security
 
-**Other Skills**
+**Other Skills:**
 Networking basics • Cloud Security • Automation Scripts • CI/CD Pipelines • Log Analysis • Incident Response Playbooks
 
 ## 🧪 Security Projects & Labs
