@@ -8,23 +8,29 @@ I'm a BSc Computing student at UNISA focused on building **Blue Team defensive s
 - Log analysis & detection engineering  
 - Endpoint security (EDR)  
 - Network traffic analysis  
-- Building tools and scripts to automate security tasks  
+- Building tools and scripts to automate security tasks
+- Graphics rendering with C++ and OpenGL
 
 ## 🚀 What I'm Up To
 - Building a **Security Operations Labs** repository  
 - Completing hands-on Blue Team labs (log analysis, SIEM, phishing, EDR)  
 - Improving skills in PowerShell, Python, and Linux  
 - Setting up a home SOC environment (Wazuh + ELK)
+- Building an e-Commerce website for my apparel brand YUWAN98
+- Developing a e-Learning institution for Matriculents called MatricSteps
 
 ## 🛠️ Tools & Technologies
 **Security & Analysis:**  
-Wazuh • ELK Stack • Sysmon • Wireshark • Brim • Zeek • Sigma Rules • CyberChef
+Wazuh • ELK Stack • Sysmon • Wireshark • NMap • Oracle VirtualBox • DosBox-X • Brim • Zeek • Sigma Rules • CyberChef 
 
 **Languages:**  
-Python • PowerShell • Bash • JavaScript • C++
+Python • PowerShell • Bash • JavaScript • C++ • LaTex • Assembly • SQL
 
-**Platforms:**  
-Windows • Linux • Ubuntu Server • Git & GitHub • VS Code
+**Frameworks:**
+React • Qt 
+
+**Platforms and Enviroments:**  
+Windows • Linux • Ubuntu Server • Git & GitHub • VS Code • Code::Blocks • Qt Creator • LeetCode • TryHackMe • Hack The Box • TCM Security
 
 ## 🧪 Security Projects & Labs
 - 🖥 **Security Operations Labs** (log analysis, SIEM, IR, phishing, EDR)  
@@ -36,7 +42,8 @@ Windows • Linux • Ubuntu Server • Git & GitHub • VS Code
 ## 📚 Certifications & Learning
 - Google Cybersecurity  
 - TryHackMe SOC Level 1  
-- HTB Academy (Blue Team Modules)  
+- HTB Academy (Blue Team Modules)
+- Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR  
 
 ## 📫 Contact
 📧 Email: limelawanda6@gmail.com
