@@ -50,5 +50,4 @@ Networking basics • Cloud Security • Automation Scripts • CI/CD Pipelines 
 - Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR  
 
 ## 📫 Contact
-📧 Email: limelawanda6@gmail.com
 💼 LinkedIn: www.linkedin.com/in/wanda-limela
