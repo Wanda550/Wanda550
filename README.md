@@ -43,8 +43,8 @@ Networking basics • Cloud Security • Automation Scripts • CI/CD Pipelines 
 - 🛡 Endpoint Detection Lab (EDR basics)
 
 ## 📚 Certifications & Learning
-- Google Cybersecurity
-- Fortinet Network Security Essentials (NSE 1, 2 & 3)
-- TryHackMe SOC Level 1  
-- HTB Academy (Blue Team Modules)
+- Google IT Support Professional Certificate
+- TryHackMe SOC Level 1
+- CC – Certified in Cybersecurity
+- HTB Academy
 - Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR  
