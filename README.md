@@ -48,6 +48,3 @@ Networking basics • Cloud Security • Automation Scripts • CI/CD Pipelines 
 - TryHackMe SOC Level 1  
 - HTB Academy (Blue Team Modules)
 - Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR  
-
-## 📫 Contact
-💼 LinkedIn: www.linkedin.com/in/wanda-limela
