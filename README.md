@@ -11,7 +11,7 @@ I'm a BSc Computing student at UNISA focused on building **Blue Team defensive s
 - Building tools and scripts to automate security tasks
 - Graphics rendering with C++ and OpenGL
 
-### 🚀 What I'm Up To
+### What I'm Up To
 - Building a **Security Operations Labs** repository  
 - Completing hands-on Blue Team labs (log analysis, SIEM, phishing, EDR)  
 - Improving skills in PowerShell, Python, and Linux  
@@ -19,7 +19,7 @@ I'm a BSc Computing student at UNISA focused on building **Blue Team defensive s
 - Building an e-Commerce website for my apparel brand YUWAN98
 - Developing a e-Learning institution for Matriculents called MatricSteps
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 **Security & Analysis:**  
 Wazuh • ELK Stack (Elasticsearch, Logstash, Kibana) • Sysmon • Wireshark • NMap • Oracle VirtualBox • Splunk •  OSINT Tools (Shodan, VirusTotal, AbuseIPDB • Brim • Zeek • Sigma Rules • CyberChef • PowerBI • Jira • Postman • Linux \& Windows Log Analysis
 
@@ -35,14 +35,14 @@ Windows • Linux • Ubuntu Server • Git & GitHub • VS Code • Code::Block
 **Other Skills:**
 Networking basics • Cloud Security • Automation Scripts • CI/CD Pipelines • Log Analysis • Incident Response Playbooks
 
-### 🧪 Security Projects & Labs
+### Security Projects & Labs
 - 🖥 **Security Operations Labs** (log analysis, SIEM, IR, phishing, EDR)  
 - 🔎 Windows Event Log Analysis  
 - 📊 SOC Investigations using Wazuh/ELK  
 - 🎣 Phishing Email Analysis  
 - 🛡 Endpoint Detection Lab (EDR basics)
 
-### 📚 Certifications & Learning
+### Certifications & Learning
 - Google IT Support Professional Certificate
 - TryHackMe SOC Level 1
 - CC – Certified in Cybersecurity
