@@ -43,8 +43,10 @@ Networking basics • Cloud Security • Automation Scripts • CI/CD Pipelines 
 - 🛡 Endpoint Detection Lab (EDR basics)
 
 ### Certifications & Learning
-- Google IT Support Professional Certificate
-- TryHackMe SOC Level 1
-- CC – Certified in Cybersecurity
+- Certified Cloud Security Professional (CCSP)
+- TryHackMe 
+- CC – Certified in Cybersecurity (ISC2)
 - HTB Academy
-- Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR  
+- Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR
+- Network Technician (Cisco Networking Academy)
+- Junior Cybersecurity Analyst (Cisco Networking Academy)
