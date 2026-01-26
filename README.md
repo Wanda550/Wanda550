@@ -3,7 +3,7 @@
 ### About me
 I'm a BSc Computing student at UNISA focused on building **Blue Team defensive skills** while creating small development projects that strengthen my understanding of systems, networks, and code.
 
-💻 I enjoy:
+I enjoy:
 - SOC analysis & SIEM investigations  
 - Log analysis & detection engineering  
 - Endpoint security (EDR)  
