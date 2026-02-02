@@ -9,7 +9,7 @@ I enjoy:
 - Endpoint security (EDR)  
 - Network traffic analysis  
 - Building tools and scripts to automate security tasks
-- Graphics rendering with C++ and OpenGL
+- Graphics rendering with **C++** and **OpenGL**
 
 ### What I'm Up To
 - Building a **Security Operations Labs** repository  
@@ -36,11 +36,11 @@ Windows • Linux • Ubuntu Server • Git & GitHub • VS Code • Code::Block
 Networking basics • Cloud Security • Automation Scripts • CI/CD Pipelines • Log Analysis • Incident Response Playbooks
 
 ### Security Projects & Labs
-- 🖥 **Security Operations Labs** (log analysis, SIEM, IR, phishing, EDR)  
-- 🔎 Windows Event Log Analysis  
-- 📊 SOC Investigations using Wazuh/ELK  
-- 🎣 Phishing Email Analysis  
-- 🛡 Endpoint Detection Lab (EDR basics)
+- **Security Operations Labs** (log analysis, SIEM, IR, phishing, EDR)  
+- Windows Event Log Analysis  
+- SOC Investigations using Wazuh/ELK  
+- Phishing Email Analysis  
+- Endpoint Detection Lab (EDR basics)
 
 ### Certifications & Learning
 - Certified Cloud Security Professional (CCSP)
