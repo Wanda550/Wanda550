@@ -12,25 +12,22 @@ I enjoy:
 - Graphics rendering with **C++** and **OpenGL**
 
 ### What I'm Up To
-- Building a **Security Operations Labs** repository  
-- Completing hands-on Blue Team labs (log analysis, SIEM, phishing, EDR)  
-- Improving skills in PowerShell, Python, and Linux  
-- Setting up a home SOC environment (Wazuh + ELK)
-- Building an e-Commerce website for my apparel brand YUWAN98
-- Developing a e-Learning institution for Matriculents called MatricSteps
+- Building a **Security Operations Labs** repository.
+- Completing hands-on Blue Team labs (log analysis, SIEM, phishing, EDR).  
+- Setting up and deploying home SOC environment using Wazuh + ELK Stack for real-world log ingestion, alerting, and incident investigation.  
+- Building an e-Commerce website for my apparel brand YUWAN98.
+- Developing a e-Learning institution for Matriculents called MatricSteps.
+- Coding a custom graphics rendering engine built in C++ and OpenGL called Arjugine.
 
 ### Tools & Technologies
 **Security & Analysis:**  
-Wazuh • ELK Stack (Elasticsearch, Logstash, Kibana) • Sysmon • Wireshark • NMap • Oracle VirtualBox • Splunk •  OSINT Tools (Shodan, VirusTotal, AbuseIPDB • Brim • Zeek • Sigma Rules • CyberChef • PowerBI • Jira • Postman • Linux \& Windows Log Analysis
+Wazuh • ELK Stack • Sysmon • Splunk • Zeek • Wireshark • Nmap • Sigma Rules • CyberChef • OSINT (Shodan, VirusTotal, AbuseIPDB) • Linux \& Windows Log Analysis
 
 **Languages:**  
 Python • PowerShell • Bash • JavaScript • C++ • LaTex • Assembly • SQL
 
-**Frameworks:**
-React • Qt • MongoDB • MITRE & ATTACK Framework
-
-**Platforms and Enviroments:**  
-Windows • Linux • Ubuntu Server • Git & GitHub • VS Code • Code::Blocks • Qt Creator • DosBox-X • LeetCode • TryHackMe • Hack The Box • TCM Security
+**Frameworks & Platform Enviroments:**
+React • Qt • MongoDB • Git/GitHub • VS Code • Code::Blocks • DosBox-X • Linux • Windows • Ubuntu Server • TryHackMe • Hack The Box • TCM Security • Oracle VirtualBox
 
 **Other Skills:**
 Networking basics • Cloud Security • Automation Scripts • CI/CD Pipelines • Log Analysis • Incident Response Playbooks
